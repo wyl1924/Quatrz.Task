@@ -1,0 +1,10 @@
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\quartz.tast.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\quartz.tast.pdb
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\C5.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\Common.Logging.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\Quartz.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\Synjones.Crusader.Logging.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\wx.web.rumtime.service.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\wx.web.runtime.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\obj\Release\quartz.tast.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\obj\Release\quartz.tast.pdb

@@ -1,0 +1,17 @@
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\quartz.task.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\quartz.task.pdb
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\C5.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\Common.Logging.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\bin\Release\Quartz.dll
+G:\synjones\svn\ref\wx\fee\common\v\quartz.net\quartz.task.dll
+G:\synjones\svn\ref\wx\fee\common\v\quartz.net\quartz.task.pdb
+G:\synjones\svn\ref\wx\fee\service\quartz.net\quartz.task.dll
+G:\synjones\svn\ref\wx\fee\service\quartz.net\quartz.task.pdb
+G:\synjones\svn\ref\thirdparty\quartz\net40\Quartz.Task.dll
+G:\synjones\svn\ref\thirdparty\quartz\net40\Quartz.Task.pdb
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\obj\Release\Quartz.Task.dll
+G:\synjones\svn\wx.web.fee\trunk\quartz\quartz.tast\obj\Release\Quartz.Task.pdb
+G:\ref\thirdparty\quartz\net40\Quartz.Task.dll
+G:\ref\thirdparty\quartz\net40\Quartz.Task.pdb
+G:\阶段性总结\quartz\quartz.tast\obj\Release\Quartz.Task.dll
+G:\阶段性总结\quartz\quartz.tast\obj\Release\Quartz.Task.pdb
