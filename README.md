@@ -1,5 +1,4 @@
 # Quatrz.Task
-quatrz.net任务调度
  quartz.net插件类库封装（含源码）
 1、前言
 
@@ -68,4 +67,6 @@ View Code
 7、XML序列化
 
 主要包括xml的序列化和反序列化操作
+
+
 博客园地址：http://www.cnblogs.com/kmonkeywyl/p/5542467.html
